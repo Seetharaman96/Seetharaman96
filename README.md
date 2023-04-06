@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Seetharaman MERN stack developer, actively looking for an job opportunity
 <!--
 **Seetharaman96/Seetharaman96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
