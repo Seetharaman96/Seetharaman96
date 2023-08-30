@@ -1,5 +1,5 @@
 ### Hi there 👋
- 🌱 I’m currently learning MERN stack
+ 🌱 MERN Stack Developer
  
  👯 I’m looking to collaborate with who liked to work in Reactjs
  
