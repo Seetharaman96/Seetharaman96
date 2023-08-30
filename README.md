@@ -1,7 +1,7 @@
 ### Hi there 👋
  🌱 MERN Stack Developer
  
- 👯 I’m looking to collaborate with who liked to work in Reactjs
+ 👯 I’m looking to collaborate with who like to work in Reactjs, Nodejs, Expressjs
  
  📫 How to reach me: Linkedin-https://www.linkedin.com/in/seetharaman-a-893784148/ , Gmail- seetharam.ad96@gmail.com
 <!--
